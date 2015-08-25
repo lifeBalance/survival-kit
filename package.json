@@ -1,0 +1,14 @@
+{
+  "name": "survival-kit",
+  "version": "1.0.0",
+  "description": "Super basic development kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeBalance/survival-kit.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0"
+  }
+}
